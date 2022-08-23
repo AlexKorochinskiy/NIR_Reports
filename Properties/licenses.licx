@@ -1,0 +1,2 @@
+OpcLabs.EasyOpc.DataAccess.EasyDAClient, OpcLabs.EasyOpcClassic, Version=5.60.107.1, Culture=neutral, PublicKeyToken=6faddca41dacb409
+OpcLabs.EasyOpc.UA.EasyUAClient, OpcLabs.EasyOpcUA, Version=5.60.107.1, Culture=neutral, PublicKeyToken=6faddca41dacb409
